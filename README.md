@@ -4,4 +4,4 @@ An example Play app that exhibits the use of compile-time dependency injection. 
 
 1. [Introduction](https://medium.com/even-financial-engineering/compile-time-di-in-play-c89b63a33643)
 2. [Implementation](https://medium.com/even-financial-engineering/compile-time-di-in-play-d77a13c0a8f0)
-3. Testing (_coming soon_)
+3. [Testing](https://medium.com/even-financial-engineering/compile-time-di-in-play-part-3-e2f2c031f918)
